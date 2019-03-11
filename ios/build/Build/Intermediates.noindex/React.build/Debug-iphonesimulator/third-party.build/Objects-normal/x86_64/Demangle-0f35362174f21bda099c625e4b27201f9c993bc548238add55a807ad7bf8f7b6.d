@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/maikvinicius/event-manager/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h

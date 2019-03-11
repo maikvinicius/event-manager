@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native-gesture-handler/ios/RNGestureHandlerRegistry.m \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native-gesture-handler/ios/RNGestureHandlerRegistry.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

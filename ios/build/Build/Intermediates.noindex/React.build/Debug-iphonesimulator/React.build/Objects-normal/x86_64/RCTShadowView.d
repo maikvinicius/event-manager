@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/RCTShadowView.m \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/UIView+Private.h \
+  /Users/maikvinicius/event-manager-rn/EventManager/node_modules/react-native/React/Views/UIView+React.h

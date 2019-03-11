@@ -1,0 +1,4 @@
+#Mon Feb 18 21:26:05 BRT 2019
+base.0=/Users/maikvinicius/event-manager-rn/EventManager/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
